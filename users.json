@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "John",
+      "surnames": "Smith"
+    },
+    {
+      "name": "Jane",
+      "surnames": "Doe"
+    },
+    {
+      "name": "Robert",
+      "surnames": "Brown"
+    },
+    {
+      "name": "Emily",
+      "surnames": "Johnson"
+    },
+    {
+      "name": "Andrey",
+      "surnames": "Sharmar"
+    },
+    {
+      "name": "Andrey",
+      "surnames": "Shevchenko"
+    }
+  ]
+}
